@@ -776,7 +776,7 @@
 				TargetAttributes = {
 					B4504C711D65230700C4B568 = {
 						CreatedOnToolsVersion = 7.3.1;
-						DevelopmentTeam = S6N2F22V2Z;
+						DevelopmentTeam = 6CNQDK438W;
 						ProvisioningStyle = Automatic;
 					};
 					B4504C841D65230800C4B568 = {
@@ -1144,11 +1144,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = S6N2F22V2Z;
+				DEVELOPMENT_TEAM = 6CNQDK438W;
 				INFOPLIST_FILE = TBTweakViewController/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.pantsthief.TBTweakViewController;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mtac.TBTweakViewController;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -1159,11 +1159,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = S6N2F22V2Z;
+				DEVELOPMENT_TEAM = 6CNQDK438W;
 				INFOPLIST_FILE = TBTweakViewController/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.pantsthief.TBTweakViewController;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mtac.TBTweakViewController;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
